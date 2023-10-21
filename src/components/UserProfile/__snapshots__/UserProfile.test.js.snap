@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders corrrectly when there is a user 1`] = `
+<div>
+  <div>
+    <h1>
+      Vikram
+    </h1>
+    <p>
+      vikram@exapmple.com
+    </p>
+  </div>
+</div>
+`;
+
+exports[`renders corrrectly when there is a user 2`] = `
+<div>
+  <p>
+    No user information available.
+  </p>
+</div>
+`;
